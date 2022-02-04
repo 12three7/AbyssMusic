@@ -1,6 +1,6 @@
-name: ""
-displayName: ""
-author: ""
-description: ""
-version: 1.0
-minGameVersion: 120
+name: "project-abyss-music"
+displayName: "Project Abyss Music"
+author: "1237"
+description: "the music for project abyss"
+version: 0.0
+minGameVersion: 135
