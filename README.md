@@ -4,7 +4,7 @@ the music for project abyss mod.
 ## Tracklist
 1. Pembukaan / ```game1```
 2. -
-3. Peradaban Baru / ```game3``
+3. Peradaban Baru / ```game3```
 4. -
 5. Penemuan Berharga / ```game5```
 6. Tempat Aneh / ```game6```
